@@ -1,2 +1,2 @@
 # MusicGenerator
-LSTM Music Generation Based System
+LSTM Based Music Generation System
